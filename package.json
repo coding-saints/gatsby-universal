@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-universal",
+  "name": "taketherisk",
   "license": "MIT",
-  "author": "Fabian Schultz <desk@fabianschultz.com>",
+  "author": "Nick K <nick@taketherisk.app>",
   "scripts": {
     "develop": "gatsby develop",
     "serve": "gatsby serve",
